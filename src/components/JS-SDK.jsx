@@ -4,13 +4,13 @@ import React from 'react';
 export const JS_SDK = () => {
 
     // Секретный ключ для выплат клиентам 
-    let key_1 = '8ji0PtzbtMv3R3nC';
+    let key_1 = '';
 
     // Секретный ключ для приема платежей (mypublickey)
-    let key_2 = 'C7fKTLKiYUkteRNm';
+    let key_2 = '';
 
     // (mytoken)
-    let token = '8UtJn5xR9NWM5WJLwRS6ewxO9xXz1cIA';
+    let token = '';
 
 
     React.useEffect(() => {
